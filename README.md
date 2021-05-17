@@ -5,10 +5,10 @@ The workflow of our proposed method.
 
 # Environment
 
-python 
+python  
 Pytorch  
-OpenCV 
-Gym
+OpenCV  
+Gym  
 
 # Usage
 

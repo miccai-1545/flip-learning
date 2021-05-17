@@ -5,7 +5,7 @@ The workflow of our proposed method.
 
 # Environment
 
-python  
+Python  
 Pytorch  
 OpenCV  
 Gym  

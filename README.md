@@ -25,6 +25,6 @@ Code will be released soon.
 ![image](https://github.com/goloooo777/flip-learning/blob/main/images/2_image.gif)
 
 2. Case of classification tag flipping. The left figure shows the original image with the tag 'Nodule' and the erasing process. The middle one visualizes the erasing curve including erasing area, classification score of nodule and DICE in each step. The last figure shows the image after tag flipping (i.e., with tag 'Normal tissue'). 
-
+![image](https://github.com/goloooo777/flip-learning/blob/main/images/tag_flipping.gif)
 
 

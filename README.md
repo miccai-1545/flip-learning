@@ -1,3 +1,3 @@
 # flip-learning
 
-![image](https://github.com/goloooo777/flip-learning/images/framework.png)
+![image](https://github.com/goloooo777/flip-learning/blob/main/images/framework.png)

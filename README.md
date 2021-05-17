@@ -19,7 +19,7 @@ The workflow of our proposed method.
 Codes will be released soon.
 
 ## Results
-1. Examples of superpixels.
+1. Examples of superpixels. The first row shows the coarse superpixels, and the second row shows the corresponding fine superpixels.
 ![image](https://github.com/goloooo777/flip-learning/blob/main/images/superpixel.png) 
 
 2. Results of two stages. The right corner figures show the superpixels and the erased areas are marked in blue.

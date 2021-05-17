@@ -1,20 +1,24 @@
-# Framework
+# Flip Learning: Erase to Segment
+
+A weakly-supervised segmentation method based on `Reinforcement Learning` that only needs bbox label.
+
+## Framework
 
 The workflow of our proposed method. 
 ![image](https://github.com/goloooo777/flip-learning/blob/main/images/framework.png)
 
-# Environment
+## Environment
 
 Python  
 Pytorch  
 OpenCV  
 Gym  
 
-# Usage
+## Usage
 
 Codes will be released soon.
 
-# Results
+## Results
 1. Examples of superpixels.
 ![image](https://github.com/goloooo777/flip-learning/blob/main/images/superpixel.png) 
 

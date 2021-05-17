@@ -16,7 +16,7 @@ Code will be released soon.
 
 # Results
 
-Two testing cases of multi-agent erasing. The blue bbox contains the nodule to be segmented. The red and green bbox are two agents. They traverse the superpixels and there are only two actions including: erasing (solid yellos bbox) and passing (hollow yellos bbox).
+Two testing cases of multi-agent erasing. The blue bbox contains the nodule to be segmented. The red and green bbox are two agents. They traverse the superpixels and there are only two actions including: erasing (solid yellow bbox) and passing (hollow yellow bbox).
 
 ![image](https://github.com/goloooo777/flip-learning/blob/main/images/1_image.gif)
 ![image](https://github.com/goloooo777/flip-learning/blob/main/images/2_image.gif)

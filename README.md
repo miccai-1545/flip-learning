@@ -31,12 +31,12 @@ Codes will be released soon.
  
 * Case1     
 <p float="center">
-    <div align=center><img src="https://github.com/goloooo777/flip-learning/blob/main/images/1_image.gif" width="280"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_gt.png" width="280"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_pred.png" width="280"/></div>  
+    <div align=center><img src="https://github.com/goloooo777/flip-learning/blob/main/images/1_image.gif" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_gt.png" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_pred.png" width="250"/></div>  
 </p float="center">
 
 * Case2  
 <p float="center">
-    <div align=center><img src="https://github.com/goloooo777/flip-learning/blob/main/images/2_image.gif" width="280"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/2_gt.png" width="280"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/2_pred.png" width="280"/></div>  
+    <div align=center><img src="https://github.com/goloooo777/flip-learning/blob/main/images/2_image.gif" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/2_gt.png" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/2_pred.png" width="250"/></div>  
 </p>
 
 

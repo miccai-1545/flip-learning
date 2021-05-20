@@ -31,7 +31,7 @@ The workflow of our proposed method.
 
 We have uploaded the testing software (*exe* format) to OneDrive: https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz and provide some testing cases in *testing images* filefolder.
 
-<div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/fl.png"></div>  
+<div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/FL.png></div>  
 
 The function of our testing software is shown as followed:  
 - Input image  

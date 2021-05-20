@@ -29,7 +29,7 @@ The workflow of our proposed method.
 ```
 ### Testing
 
-We have uploaded the testing software (*exe* format) to OneDrive: https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz and provide some testing cases in *testing images* filefolder.
+We have uploaded the testing software (in the *zip* file, *exe* format) to OneDrive: https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz and provided some testing cases in *testing images* filefolder.
 
 <div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/demo.png"></div>  
 

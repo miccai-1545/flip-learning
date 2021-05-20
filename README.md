@@ -64,7 +64,7 @@ The predictions and visualization results will be stored in the *save* filefolde
  
 * Case1     
 <p float="center">
-    <div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_image.gif" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_gt.png" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/1_pred.png" width="250"/></div>  
+    <div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/save/1.gif" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/testing_images/1/mask.png" width="250"/><img src="https://github.com/miccai-1545/flip-learning/blob/main/save/1_image_m.png" width="250"/></div>  
 </p float="center">
 
 * Case2  

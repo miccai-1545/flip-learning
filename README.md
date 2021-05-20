@@ -31,7 +31,7 @@ The workflow of our proposed method.
 
 We have uploaded the testing software (*exe* format) to OneDrive: https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz and provide some testing cases in *testing images* filefolder.
 
-<div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/FL.png></div>  
+<div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/demo.png"></div>  
 
 The function of our testing software is shown as followed:  
 - Input image  
@@ -43,8 +43,9 @@ The function of our testing software is shown as followed:
 `Predict-m:` Visualize the mask after post-process (erode/hole-filling/dilate).  
 `Predict-o:` Visualize the predicted mask boundary on the original image.  
 `Predict-c:` If *mask.png* exists, compare the boundaries of predicted mask and ground truth on the original image.  
-`Predict-e:` If *mask.png* exists, draw the erasing curve (each step) including DICE, classification score, and erased area.  
 `Predict-f:` Visualize the erased image with the tag 'Normal tissue' instead of 'Nodule'.  
+`Predict-e:` If *mask.png* exists, draw the erasing curve (each step) including DICE, classification score, and erased area.
+  
 - Visualization-gif     
 `Gif-erasing:` Visualize the multi-agent erasing process.
 

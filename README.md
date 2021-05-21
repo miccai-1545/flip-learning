@@ -29,11 +29,12 @@ The workflow of our proposed method.
 ```
 ### Testing
 
-We have uploaded the testing software (in the *zip* file, *exe* format) to OneDrive: https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz and provided some testing cases in *testing images* filefolder.
+We have provided some testing cases in *testing images* filefolder and uploaded the testing software based on our proposed flip-learning method to OneDrive (*flip_learning.exe* in the *zip* file, see https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz). The trained model are provided in the *model* filefolder. It is noted that the classification model *cls.pt* is not required in the testing phase to get the predicted segmentation. Here, we only use this classifier for obtaining the classification score and drawing the erasing curve. 
 
 <div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/demo.png"></div>  
 
-The function of our testing software is shown as followed:  
+The function of our testing software is illustrated as followed:  
+
 - Input image  
 `Load:` Load the image to be segmented.  
 - Visualization-pre (pre-process)  
@@ -42,9 +43,9 @@ The function of our testing software is shown as followed:
 - Visualization-result (predicted result)  
 `Predict-m:` Visualize the mask after post-process (erode/hole-filling/dilate).  
 `Predict-o:` Visualize the predicted mask boundary on the original image.  
-`Predict-c:` If *mask.png* exists, compare the boundaries of predicted mask and ground truth on the original image.  
-`Predict-f:` Visualize the erased image with the tag 'Normal tissue' instead of 'Nodule'.  
-`Predict-e:` If *mask.png* exists, draw the erasing curve (each step) including DICE, classification score, and erased area.
+`Predict-c:` If *mask.png* exists, compare the mask boundaries of predicted mask and ground truth on the original image.  
+`Predict-f:` Visualize the erased image with the tag 'Normal tissue'.  
+`Predict-e:` If *mask.png* exists, draw the erasing curve including DICE, classification score, and erased area.
   
 - Visualization-gif     
 `Gif-erasing:` Visualize the multi-agent erasing process.

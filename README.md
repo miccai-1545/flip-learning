@@ -29,7 +29,7 @@ The workflow of our proposed method.
 ```
 ### Testing
 
-We have provided some testing cases in *testing images* filefolder and uploaded the testing software based on our proposed flip-learning method to OneDrive (*flip_learning.exe* in the *zip* file, see https://1drv.ms/u/s!AowDfwnjiDZrbNK6AJOQ-4XcdDc?e=0n1skz). The trained model are provided in the *model* filefolder. It is noted that the classification model *cls.pt* is not required in the testing phase to get the predicted segmentation. Here, we only use this classifier for obtaining the classification score and drawing the erasing curve. 
+We have provided some testing cases in *testing images* filefolder and uploaded the testing software based on our proposed flip-learning method to OneDrive (*flip_learning.exe* in the *zip* file, see https://1drv.ms/u/s!AowDfwnjiDZralVgWGoPb3I3_6U?e=SYzXLE). The trained model are provided in the *model* filefolder. It is noted that the classification model *cls.pt* is not required in the testing phase to get the predicted segmentation. Here, we only use this classifier for obtaining the classification score and drawing the erasing curve. 
 
 <div align=center><img src="https://github.com/miccai-1545/flip-learning/blob/main/images/demo.png"></div>  
 
